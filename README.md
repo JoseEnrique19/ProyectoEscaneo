@@ -1,0 +1,2 @@
+# ProyectoEscaneo
+Camara, brujula, inclinacion
